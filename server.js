@@ -1,4 +1,4 @@
-const express = require('express')
+const express = require('express') // v2
 const { WebSocketServer } = require('ws')
 const http = require('http')
 const fetch = require('node-fetch')
